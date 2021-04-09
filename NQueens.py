@@ -6,6 +6,7 @@ import time
 import os
 from collections import OrderedDict
 
+
 class Population:
 
     # Initlize GA algorithm params
